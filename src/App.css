@@ -1,0 +1,30 @@
+
+nav {
+    display: flex;
+    justify-content: space-around;
+    
+}
+ul{
+    display: flex;
+    
+}
+ul li {
+    list-style: none;
+    margin-inline: 10px;
+}
+
+.content {
+    display: flex;
+    justify-content: center;
+    margin: 20px;
+
+}
+div img {
+    width: 200px;
+    height: 200px;
+    margin: 20px;
+}
+
+.content div p{
+    width: auto;
+}
